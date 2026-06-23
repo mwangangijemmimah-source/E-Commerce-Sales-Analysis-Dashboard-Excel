@@ -1,0 +1,34 @@
+E-commerce is always categorised as one of the fastest growing sector as nowadays most of the customers prefer to purchase online. In the case i have analysed customers are shopping via, App, Patrner App, Instagram,Target.com and Website.
+I  Identified the Key Performance Indicators, which include;
+       - Total orders
+         - Total Amount
+        -Avg. Rating
+          Avg .Days to Deliver( ship date - Order date)
+Vivo Califa's leadership wanted answers to 8 core business questions from three months of order data (Jan–Mar 2025):
+        What's the order trend over the last 13 weeks?
+        How do customers prefer to buy — app, website, or partner channels?
+        How many items do customers typically buy per order?
+        Which products are most popular?
+        What's the overall gender split of buyers?
+        Where (which CA counties) do customers live?
+        How long does it take to ship orders?
+         How happy are customers, based on ratings?
+Each question was answered on its own PivotTable sheet, then the key results were brought together into one interactive dashboard.
+Total Orders   2,400
+Total Units Sold    11,997
+Total Revenue   $649,019.80  
+Average Customer Rating   4.0 
+Average Days to Deliver  2.3 days
+
+
+🔍 Key Insights
+   Geography is concentrated: Los Angeles County alone drives $215,551 in revenue — roughly 33% of total sales — followed by San Diego County at $98,367.
+   Mobile-first customers: The App is the top order channel (35% of sales), ahead of Website (24%), Target.com (18%), Partner App (12%), and Instagram (11%).
+   Female customers lead: Of all units sold, 52% went to female customers, 39% to male, and the rest split between "Other" and "Unknown."
+  T-Shirts and Jeans are the bestsellers, followed by Sneakers, Tank Tops, and Bikinis.
+  Shipping is fast: 37% of all orders are delivered in just 1 day, and the vast majority ship within 3 days.
+  Customers are happy: Roughly 3 in 4 orders receive a 4- or 5-star rating, consistent across January, February, and March.
+  Small basket sizes: Most orders contain 1–3 items, with 2-item orders being the single most common basket size.
+
+
+      
